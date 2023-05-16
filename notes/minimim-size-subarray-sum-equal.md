@@ -40,3 +40,7 @@
 
 1. 如果要你輸出的不是最短長度，而是最短子陣列的內容，你會怎麼做呢？
 2. 如果不僅是等於 `target` 的子陣列，而是要找出大於或等於 `target` 的子陣列，你會怎麼做呢？
+
+## 參考連結
+
+- [Leetcode 刷題 pattern - Sliding Window](https://blog.techbridge.cc/2019/09/28/leetcode-pattern-sliding-window/)

@@ -41,3 +41,7 @@
 ## 衍生問題
 
 - 如果不是輸出長度，而是輸出子陣列內容，該怎麼做呢？
+
+## 參考連結
+
+- [Leetcode 刷題 pattern - Sliding Window](https://blog.techbridge.cc/2019/09/28/leetcode-pattern-sliding-window/)
