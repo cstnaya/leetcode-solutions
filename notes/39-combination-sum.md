@@ -75,4 +75,4 @@ f(n) = c[1] + f(n - c[1])
 3. 如果元素可以重複拿，但得回傳所有的解，該如何修改程式碼？
    - [Solution - combination-sum-all-results.js](../codes/combination-sum-all-results.js)
 4. 是否能加入 dp 更優化速度
-   - TODO:
+   - 問了 chatGPT 說有些衍生題不適合用 dp，dp 只適用在只需儲存一個最佳解的場合。
