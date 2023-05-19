@@ -7,3 +7,6 @@
 ## 目錄
 
 - [Combination Sum](./notes/39-combination-sum.md)
+- [Minimum Size Subarray Sum](./notes/209-Minimum-Size-Subarray-Sum.md)
+- [Longest Substring with At Most K Distinct Characters](./notes/340-Longest-Substring-with-At-Most-K-Distinct-Characters.md
+)
